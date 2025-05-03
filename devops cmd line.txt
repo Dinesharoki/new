@@ -1,0 +1,35 @@
+git remote remove origin
+
+git config  --global user.name "name"
+git config  --global email.name  "name"
+
+ssh -keygen -t ed25519 -C  'dhinesharockiasamy@gmail.com" / id .push
+---------------2type password =----------------
+ public 
+private
+ cd /media/jaggu/VBox_GAs_7.1.6
+  ls
+cat /home/dinesh/.ssh/id.ssh -keygen -t ed25519 -C .pub
+mkdir project
+cd project/
+touch index.html
+echo "<h1>Hello world" >> index.html
+cat index.html
+<h1>Hello world</h1>
+nano readme.md
+ls
+ls -a
+git init
+git add  .
+git comit -m "hi machaaa"
+touch hello.txt
+git add .
+nano README.md
+
+
+
+This is aparagraph
+  *git remote remove origin( to add remote origin)
+  *git brain -M main 
+  *git push -u origin main
+  *
